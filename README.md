@@ -2,8 +2,8 @@
 # Members
 Mikhayla Elie:mce45@pitt.edu, Maya Mccoy:msm196@pitt.edu,Aaron Amodu:aoa58@pitt.edu
 # Personal Notebook 
-Mikhayla- Final Project Arson
-Maya - Final Project
+Mikhayla - Final Project Arson
+Maya -  Final Project
 Aaron - 
 # Canvas Group 17 
 The dataset tracks the different crimes committed in different neighborhoods in Pittsburgh. It has crimes tracked from 2012-2023. There are tons of different crimes but for my metric, I looked at crimes involving arson. Blotter Data (UCR Coded) (data.wprdc.org) - https://data.wprdc.org/datastore/dump/044f2016-1dfd-4ab0-bc1e-065da05fca2e 
